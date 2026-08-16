@@ -74,6 +74,10 @@ PAD_GROUPS = [
 ]
 PAD_EXTRA = {0x0068C8: 0, 0x0068E0: 0}   # join class group by offset
 
+# offset -> leading half-width spaces, re-applied after the TSV loader's
+# .strip(). 2 spaces = one full-width cell.
+LEAD_INDENT = {0x005FDC: 2}              # command screen "Inventory"
+
 
 def apply_field_padding(trans, id_to_off):
     for grp in PAD_GROUPS:
@@ -269,6 +273,13 @@ def build_main3():
                 json.load(open(bf_dpath("MAIN_code_refs2.json", "MAIN.code_refs2.json"))).items()}
     freespace = json.load(open(bf_dpath("MAIN_freespace.json", "MAIN.freespace.json")))
     trans = bf.load_translations()
+    # The TSV loader strips leading whitespace, so the JP indent of the
+    # command-screen list entries is lost. 0x5FDC (JP "　アイテム") must start
+    # one full cell in, like the Magic/Skills SUPPLEMENT entries beside it, or
+    # its first two half-width letters sit under the column's X icon.
+    for _off, _lead in LEAD_INDENT.items():
+        if _off in trans:
+            trans[_off] = " " * _lead + trans[_off].lstrip()
     NORM = {"\u2019": "'", "\u2018": "'", "\u201C": '"', "\u201D": '"'}
     trans = {off: "".join(NORM.get(c, c) for c in en)
              for off, en in trans.items()}
