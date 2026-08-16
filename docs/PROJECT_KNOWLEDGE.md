@@ -212,9 +212,15 @@ MAIN.EXE; `bytes` = original record length; literal `\n` in text = one `0x0A`.
   headers aligned over FW columns: 0x007044, 0x00706C, 0x007F6C, 0x0F9868,
   0x0FEFE4.
 - Menu labels restored to full words where they fit at half-width: Search,
-  Command, Inventory, Status, Run away, Examine, To the inn, To town, Accident,
+  Moveset, Inventory, Status, Run away, Examine, To the inn, To town, Accident,
   Found it., Searching. Still short by necessity: "Next" (61), "Tower" (70),
-  MAX/Slowly (158/159), 457/458 split.
+  MAX/Slowly (158/159), 457/458 split. Id 64 (コマンド) is "Moveset", not
+  "Command" — the screen it opens is the technique/magic setup list.
+- **Leading indents** (`LEAD_INDENT` in `build_final3.py`): `load_translations`
+  `.strip()`s every TSV cell, so a JP leading full-width space cannot be carried
+  in the spreadsheet. 0x005FDC (`　アイテム`, command-screen list) is re-indented
+  to 2 half-width spaces = one cell, matching the `  Magic` / `  Skills`
+  SUPPLEMENT entries beside it; without it the column's X icon covers "In".
 - **TRIMS** all removed except **id 261** (pointer-less, in-place only).
   **This string has a hard 77-byte budget** (the builder allows `budget + 2`, so
   79 bytes of encoded payload). It is set in `build_final3.py`, which SHADOWS
