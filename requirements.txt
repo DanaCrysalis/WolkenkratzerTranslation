@@ -1,0 +1,10 @@
+# Track A (MAIN.EXE / SLPS_001.97 text hack)
+odfpy            # script/ods2tsv.py — reads script_traduit.ods
+
+# Track B (TIM image overlays) — only needed for tools/overlays/
+pillow
+numpy
+scipy
+
+# Optional, for RE work only
+capstone         # MIPS disassembly

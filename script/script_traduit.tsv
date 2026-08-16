@@ -1,0 +1,463 @@
+id	offset	bytes	ref_type	japanese	english
+0	0x864	876	ptr	\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n　　予言者は云った・・・\n\n\n\n\n\n\n\n『そなたたち人間が、迷い、\n\n　世の秩序が土くれのごとく\n\n　風に舞うとき・・・\n\n　我らを創りし主は、\n\n　そなたたちに最後の試練を\n\n　与えるだろう。\n\n\n\n　それは、高きを目指すこと\n\n　それは、滴る血を拭うこと\n\n　それは、恐怖を捨てること\n\n　それは、後戻りしないこと\n\n　総ては摩天楼より生まれ、\n\n　摩天楼に帰するのだ・・・\n\n\n\n　そなたに力があるのならば\n\n　摩天楼に挑むがよい。\n\n\n\n　そなたに知恵があるのなら\n\n　摩天楼に問うがよい。　　\n\n\n\n　そなたに欲望があるのなら\n\n　摩天楼を望むがよい。　　\n\n\n\n　我が主は、必ずや\n\n　そなたたちの前に現れる。\n\n　摩天楼をその手にした者の\n\n　前に・・・』\n\n\n\n\n\n\n\n眼前にそびえ立つその塔が\n\n摩天楼なのか・・・\n\n終わりなき頂上を目指し、\n\n今日も一人の男が塔に挑み\n\nその審判を受ける・・・\n\n\n\nその手に掴むは、\n\n神の力か、それとも死か。\n\nその心に刻むは、\n\n勇気か、それとも絶望か。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n	\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n From the words of the prophet \n\n\n\n\n\n\n\n"When you humans lose your way \n\n when the world's balance is thrown about\n\n like gravel in the wind \n\n Then the Lord who built us \n\n shall put you \n\n to the final test. \n\n\n\n You shall aim for the summit; \n\n You shall wipe the blood that has been spilled; \n\n You shall abandon fear; \n\n You shall never turn back. \n\n All that was born from the Wolkenkratzer, \n\n shall return to the Wolkenkratzer. \n\n\n\n If you have the strength \n\n then defy the Wolkenkratzer. \n\n\n\n If you have the wits, \n\n then question the Wolkenkratzer. \n\n\n\n If you have the ambition, \n\n then demand from the Wolkenkratzer. \n\n\n\n Mark our words, as we promise \n\n that, in front of the one \n\n  who seizes the Wolkenkratzer \n\n our Lord shall reveal Himself."\n\n\n\n\n\n\n\n This towering building... \n\n Could it be that Wolkenkratzer? \n\n Today, again, someone has arrived before it \n\n to defy its ever-extending heights \n\n and face its judgement. \n\n\n\n What will they gain from it? \n\n The power of a god, or their own death?\n\n What will be left engraved in their heart? \n\n Bravery, or despair? \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+1	0x22A8	44	ptr	これから、その若者の物語をはじめよう・・・・	The story of this young fellow now begins...
+2	0x22D8	58	ptr	そして、ここに「勇者」になることを夢みて旅立つ若者がいた。	A young man set out on a journey, in the hopes of becoming a hero of tales.
+3	0x2314	36	ptr	たとえ、その結末が死であったとしても	Even if death were the only thing awaiting them
+4	0x233C	46	ptr	しかし、人々は時間をかけてでも夢を追いかける。	People still poured their lives into the pursuit of such dreams.
+5	0x236C	56	ptr	時の流れは止まらない、人の命は時間と言う火で消費される。	The course of time cannot be stopped; it erases, inescapably, the lives of men.
+6	0x23A8	12	ptr	昔は今・・・	Now as before...
+7	0x23B8	12	ptr	今は昔・・・	Before, as now...
+8	0x23C8	18	ptr	ばぁいばぁいきぃん	Bubye bwing!
+9	0x23DC	18	ptr	はーひふぅへほぉー	aybeeheedeehee
+10	0x23F0	14	ptr	いろはにほへと	ABCDEF
+11	0x2400	24	ptr	下記くけこぉそせすしさ！	GayHeechiIJKkkLMN!
+12	0x3BB4	22	code	ヴォルケンクラッツァー	Wolkenkratzer
+13	0x3E50	14	ptr	『街へ戻れ』\n\n	"Go back to town"\n\n
+14	0x3E60	24	ptr	何処からか声が聞こえた。	A voice can be heard.
+15	0x3E94	22	ptr	摩天楼を目指す者よ！\n\n	You who seek the Wolkenkratzer!\n\n
+16	0x3EAC	18	ptr	更なる扉を開き、\n\n	Open a new portal\n\n
+17	0x3EC0	22	ptr	真の頂上へ挑むが良い。	And try to reach its true summit.
+18	0x599C	26	ptr	摩天楼が揺れているようだ。	The Wolkenkratzer seems to be shaking.
+19	0x59B8	30	ptr	風がどこからともなく吹いてくる	A wind is blowing, but it is impossible to tell where it is coming from.
+20	0x59D8	28	ptr	清らかな波動が伝わって来る。	You can sense a pleasant vibration.
+21	0x59F8	30	ptr	まわりの雑草が枯れ果てている。	The grass around here is dried up.
+22	0x5A18	24	ptr	暑い。\n\n焼け死にそうだ。	It's so hot.\n\nHot enough to kill.
+23	0x5A34	14	ptr	何も感じない。	You don't feel anything.
+24	0x5A44	30	ptr	何かが素早く移動しているようだ	Something seems to be moving quickly.
+25	0x5A64	26	ptr	異国の雰囲気が漂っている。	You can sense an unusual fragrance, as if from a foreign land.
+26	0x5A80	16	ptr	強い獣臭がする。	It reeks of a beast.
+27	0x5A94	26	ptr	かわいた尻尾がおちている。	There is a dried-up tail on the floor.
+28	0x5AB0	24	ptr	何かを唱えているようだ。	The musical tones of a sort of chant can be heard.
+29	0x5ACC	34	ptr	ひからびた男の死体が転がっている。	A man's corpse, dried to a husk, lies on the floor.
+30	0x5AF0	16	ptr	もの凄い震動だ。	What an incredible tremor.
+31	0x5B04	30	ptr	穴のあいたものが沢山落ちている	The floor is littered with holed, broken things.
+32	0x5B24	28	ptr	腹にひびく吠え声が聞こえる。	A gut-shaking roar resonates.
+33	0x5B44	30	ptr	すえた匂いがする。それに寒い。	There is a sour smell. And it's cold.
+34	0x5B64	30	ptr	ひからびた死骸がころがっている	Dried up bones lie scattered on the floor.
+35	0x5B84	30	ptr	石像を砕いたような小石が多い。	There are many small rocks, as if a statue had been shattered.
+36	0x5BA4	20	ptr	何か嫌な感じがする。	Something bad seems to be on the verge of happening.
+37	0x5BBC	46	ptr	急激に熱くなった。\n\n摩天楼が揺れているようだ。	It's suddenly becoming very hot.\n\nThe Wolkenkratzer seems to be trembling.
+38	0x5BEC	30	ptr	風がどこからともなく吹いている	A wind is blowing, but it is impossible to tell where it is coming from.
+39	0x5C0C	24	ptr	熱い・・・汗が出てくる。	It's so hot... The sweat is unbearable.
+40	0x5C28	34	ptr	何か巨大な物が移動しているようだ。	Something vast is moving; you can feel it.
+41	0x5C4C	16	ptr	羽音が聞こえる。	You can hear the beating of wings.
+42	0x5C60	34	ptr	大きな硬い物を引きずった跡がある。	There are traces of a big, solid thing being dragged.
+43	0x5C84	30	ptr	金属のぶつかりあう音が聞こえる	The clank of metal echoes.
+44	0x5CA4	28	ptr	暑い。\n\n空気も乾燥している。	It's hot.\n\nThe air is drying up.
+45	0x5CC4	32	ptr	背筋が寒くなる。\n\nゾクゾクする。	A chill runs down your spine.
+46	0x5CE8	38	ptr	妙な声が聞こえる。\n\n悪臭も漂っている。	Strange voices can be heard.\n\nA strong smell floats in the air.
+47	0x5D10	24	ptr	空気がじめじめしている。	The air is saturated with humidity.
+48	0x5D2C	20	ptr	寒い。\n\n体が震える。	It's so cold.\n\nYour body is shaking.
+49	0x5D44	16	ptr	暑くなってきた。	It has become hot.
+50	0x5D58	40	ptr	植物が枯れている。\n\n土もひからびている。	Withered plants on parched ground.
+51	0x5D84	44	ptr	空気がじめじめしている。\n\n雑草が腐っている。	The air is saturated with humidity.\n\nThe vegetation is rotting.
+52	0x5DB4	22	ptr	あちこちに、金がある。	Coins are scattered about.
+53	0x5DCC	30	ptr	すえた匂いがする。それに暑い。	It smells bad. And it's hot.
+54	0x5DEC	36	ptr	空気が湿っている。\n\n泥の匂いもする。	The air is humid.\n\nIt smells of mud.
+55	0x5E14	36	ptr	すえた匂いがする。\n\n虫の死骸も多い。	There is a sour smell.\n\nInsect carcasses are everywhere.
+56	0x5E3C	24	ptr	土と朽ち木の匂いがする。	It smells of dirt and decayed wood.
+57	0x5E58	28	ptr	こんな場所に女性がいるのか？	Could there be a woman in a place like this?
+58	0x5E78	24	ptr	邪悪な念が伝わってくる。	A vile intent. So intense you can feel it.
+59	0x5E94	46	ptr	急激に寒くなった。\n\n摩天楼が揺れているようだ。	The temperature suddenly dropped.\n\nThe Wolkenkratzer seems to be shaking.
+60	0x5EC4	36	ptr	気温が高くなってきた。\n\n獣臭もする。	The temperature rose.\n\nThere is the smell of a beast in the air.
+61	0x5F08	8	ptr	次の階へ	Next floor
+62	0x5F14	8	ptr	寝る　　	Sleep
+63	0x5F20	8	ptr	探す　　	Search
+64	0x5F2C	8	ptr	コマンド	Command
+65	0x5F38	8	ptr	アイテム	Inventory
+66	0x5F44	10	ptr	ステータス	Status
+67	0x5F50	6	ptr	にげる	Run away
+68	0x5F58	6	ptr	あける	Open
+69	0x5F60	8	ptr	しらべる	Examine
+70	0x5F6C	10	ptr	試練の塔へ	To tower
+71	0x5F78	10	ptr	宿屋へ　　	To the inn
+72	0x5F90	10	ptr	セーブ　　	Save
+73	0x5F9C	10	ptr	街へ行く　	To town
+74	0x5FA8	10	ptr	話す　　　	Talk
+75	0x5FDC	10	ptr	　アイテム	Inventory
+76	0x6020	6	code	はい　	Yes
+77	0x6028	6	code	いいえ	No
+78	0x6030	24	code	本当に塔から逃げますか？	Do you really wish to flee the tower?
+79	0x6060	6	code	つかう	Use
+80	0x6068	6	code	すてる	Drop
+81	0x6070	56	ptr	５０階まで上がり『勇者の証』を手に入れ世界を導くが良い。	Climb the 50 floors, bring back the Hero's Emblem, and you shall become the ruler of the world.
+82	0x60AC	42	ptr	まずは、西の扉を開きドラゴンを倒すが良い。	You should first open the Western door and kill the dragon there.
+83	0x6130	6	ptr	素早さ	Speed
+84	0x6158	6	ptr	レベル	Level
+85	0x617C	6	ptr	メッキ	Coat
+86	0x61EC	24	ptr	『垂直割り』を覚えた。\n\n	Learned "Vertical Split".\n\n
+87	0x6208	24	ptr	『Ｄフライ』を覚えた。\n\n	Learned "Dragonfly".\n\n
+88	0x6224	24	ptr	『側転斬り』を覚えた。\n\n	Learned "Hurricane Slash".\n\n
+89	0x6240	24	ptr	『対空払い』を覚えた。\n\n	Learned "Anti-air sweep".\n\n
+90	0x625C	24	ptr	『前転斬り』を覚えた。\n\n	Learned "Somersault Slash".\n\n
+91	0x6278	24	ptr	『乱れ突き』を覚えた。\n\n	Learned "Wild Thrusts".\n\n
+92	0x6294	22	ptr	『Ｘ斬り』を覚えた。\n\n	Learned "Cross Slash".\n\n
+93	0x62AC	24	ptr	『垂直斬り』を覚えた。\n\n	Learned "Vertical Slash".\n\n
+94	0x62C8	24	ptr	『ジャンプ』を覚えた。\n\n	Learned "Jump".\n\n
+95	0x62EC	24	ptr	『３段払い』を覚えた。\n\n	Learned "Three sweeps combo".\n\n
+96	0x6308	24	ptr	『接近突き』を覚えた。\n\n	Learned "Lunge".\n\n
+97	0x6324	26	ptr	『Ｄアタック』を覚えた。\n\n	Learned "Dragonslayer".\n\n
+98	0x6340	24	ptr	『払い斬り』を覚えた。\n\n	Learned "Sword Sweep".\n\n
+99	0x635C	22	ptr	『下突き』を覚えた。\n\n	Learned "Low Thrust".\n\n
+100	0x6374	24	ptr	『回転斬り』を覚えた。\n\n	Learned "Whirlwind".\n\n
+101	0x6390	22	ptr	『中突き』を覚えた。\n\n	Learned "Middle Thrust".\n\n
+102	0x63A8	26	ptr	『かぶと割り』を覚えた。\n\n	Learned "Skull Splitter".\n\n
+103	0x63C4	22	ptr	『上突き』を覚えた。\n\n	Learned "High Thrust".\n\n
+104	0x63DC	20	ptr	もう覚える物はない\n\n	There is nothing left for you to learn.\n\n
+105	0x63F8	16	ptr	体力が減った。\n\n	You lost health.\n\n
+106	0x640C	16	ptr	装備しました。\n\n	Equipped.\n\n
+107	0x6420	20	ptr	盾にメッキをした。\n\n	Your shield has been coated.\n\n
+108	0x6438	22	ptr	防具防御力が１減った\n\n	You lost one point of defense.\n\n
+109	0x6450	22	ptr	武器攻撃力が１減った\n\n	You lost one point of attack.\n\n
+110	0x6468	14	ptr	鎧が光った。\n\n	The armor is shining.\n\n
+111	0x6478	16	ptr	武器が光った。\n\n	The weapon is shining.\n\n
+112	0x648C	20	ptr	知力が１あがった。\n\n	Intelligence raised 1 point.\n\n
+113	0x64A4	22	ptr	素早さが１あがった。\n\n	Speed raised 1 point.\n\n
+114	0x64BC	20	ptr	腕力が１あがった。\n\n	Defense raised 1 point.\n\n
+115	0x64D4	14	ptr	毒が消えた。\n\n	The poison is gone.\n\n
+116	0x64E4	18	ptr	腕力が１減った。\n\n	You lost one point of strength.\n\n
+117	0x64F8	18	ptr	魔法力が減った。\n\n	You lost magic energy.\n\n
+118	0x650C	20	ptr	素早さがあがった。\n\n	Speed raised.\n\n
+119	0x6524	20	ptr	魔法力が回復した。\n\n	You recovered magic energy.\n\n
+120	0x653C	18	ptr	体力が回復した。\n\n	You recovered health.\n\n
+121	0x6550	20	ptr	ここでは使えない。\n\n	This cannot be used here.
+122	0x6654	8	ptr	その他：	Etc.
+123	0x6660	4	ptr	なし	None
+124	0x68D4	10	ptr	魔法使い　	Magician
+125	0x68EC	10	ptr	レンジャー	Ranger
+126	0x68F8	16	ptr	サウンド　テスト	Sound Test
+127	0x6C84	54	ptr	塔の中で死んだらそのチャレンジは回数に含まれないのよ。	If you die in the tower, no record will be kept.
+128	0x6CBC	66	ptr	摩天楼の神はその人が何回チャレンジしたかちゃんと記録しているのよ。	The number of times somebody has challenged the Wolkenkratzer is recorded.
+129	0x6D00	84	ptr	キャンプ中に中断してもそこから再開できるわよ。でもそれは１回だけ。死んだら街からよ。	You can save and quit at the camp, to continue later, but only once. Die, and you're sent back to town.
+130	0x6D58	76	ptr	塔の中には制限時間があるらしいの。それを越えると神の声が聞こえるんですって。	There appears to be a time-limit in the tower. Those who exceed it can hear God's voice.
+131	0x6DA8	68	ptr	奥義の巻物って知ってる？　それを使うと必殺技を覚えられるんですって。	Do you know about the secret technique scrolls? It is said you can use them to learn special tricks.
+132	0x6DF0	48	ptr	アイテムは一度使ってみないとなんだか判らないの。	You'll never know what an item does until you try it.
+133	0x6E24	84	ptr	塔の中で上がった能力は塔から出ると元に戻っちゃうの。でも武器の威力はそのままなのよ。	The skills you learn in the tower are forgotten when you return to town. But you don't lose your weapons.
+134	0x6E7C	36	ptr	塔に関する噂なら街で沢山聞けるわよ。	Tons of rumors about the tower can be heard in town.
+135	0x6EA4	24	ptr	あなたも塔にチャレンジ？	So you're going to challenge the tower too?
+136	0x6EC0	26	ptr	摩天楼を囲む街にようこそ！	Welcome to the town at the base of the Wolkenkratzer!
+137	0x6F14	4	ptr	はい	Yes
+138	0x6F1C	6	ptr	いいえ	No
+139	0x6F24	42	ptr	現在の状態を保存します。\n\n宜しいですか？\n\n	This will save your current state.\n\nDo you wish to proceed?\n\n
+140	0x6F50	72	ptr	データを保存しています。\n\nカードを抜いたり電源を切ったりしないで下さい。	Data is being saved.\n\nPlease don't cut the power or remove the memory card.\n\n
+141	0x6F9C	20	ptr	\n\n保存出来ました。\n\n	\n\nData has been saved.\n\n
+142	0x6FB4	26	ptr	\n\n保存出来ませんでした。\n\n	\n\nData could not be saved.\n\n
+143	0x7030	18	ptr	　　挑戦者達の記録	  Records of the Challengers
+144	0x7DA8	14	ptr	アクシデント　	Ambush!
+145	0x7DC8	14	ptr	みつかりました	Found it!
+146	0x7DD8	14	ptr	探しています　	Searching...
+147	0x7E08	30	ptr	アイテムを選択してください。\n\n	Please select an item.\n\n
+148	0x7E28	16	ptr	どうしますか？\n\n	What do you wish to do?\n\n
+149	0x7E3C	4	ptr	とる	Take
+150	0x7E44	6	ptr	すてる	Drop
+151	0x7EA8	44	ptr	持ち物が一杯です。\n\n持ち物を捨てて下さい。\n\n	Your inventory is full.\n\nPlease drop something.\n\n
+152	0x7ED8	30	ptr	残りアイテムを破棄しますか？\n\n	Do you wish to abandon the rest of the items?\n\n
+153	0x7EF8	4	ptr	はい	Yes
+154	0x7F00	6	ptr	いいえ	No
+155	0x7F08	26	ptr	アイテムを破棄しました。\n\n	The rest of the items are gone.\n\n
+156	0x7F24	20	ptr	調査は終了した。　\n\n	Search complete.\n\n
+157	0x7F9C	26	ptr	タイプを選択して下さい。\n\n	Choose a rest type.\n\n
+158	0x7FB8	10	ptr	ＭＡＸまで	Full Rest
+159	0x7FC4	8	ptr	少しずつ	Quick Nap
+160	0x7FD0	26	ptr	ボタンを押せば起きます。\n\n	Press a button to wake up.\n\n
+161	0x7FEC	18	ptr	全回復しました。\n\n	You have completely recovered.\n\n
+162	0x8000	14	ptr	起きました。\n\n	You wake.\n\n
+163	0x8050	24	ptr	\n\n保存出来ませんでした。	\n\nData could not be saved.\n\n
+164	0x806C	36	ptr	冒険を中断します。\n\n宜しいですか？\n\n	This will interrupt your adventure.\n\nDo you wish to proceed?\n\n
+165	0x8094	72	ptr	データを保存しています。\n\nカードを抜いたり電源を切ったりしないで下さい。	Data is being saved.\n\nPlease don't cut the power or remove the memory card.
+166	0x80E0	40	ptr	\n\n保存出来ました。\n\nゲームを中断します。	\n\nData has been saved.\n\nThe game will end now.
+167	0x8124	24	ptr	レベルアップしました。\n\n	You have leveled up.\n\n
+168	0x8198	28	ptr	\n\nＸＸＸＸＸの魔法を覚えた。	\n\nYou learned the magic of XXXXX.
+169	0x81B8	24	ptr	\n\n素早さがＸＸあがった。	\n\nYour speed rose by XX.
+170	0x81D4	22	ptr	\n\n知力がＸＸあがった。	\n\nYour intelligence rose by XX.
+171	0x81EC	22	ptr	\n\n腕力がＸＸあがった。	\n\nYour strength rose by XX.
+172	0x8204	24	ptr	\n\n魔法力がＸＸあがった。	\n\nYour magic power rose by XX.
+173	0x8220	20	ptr	体力がＸＸあがった。	Your hit points rose by XX.
+174	0xEAD2	4	none	う脇
+175	0xEB02	4	none	う脇
+176	0xAB3C1	6	none	釘$ゴ\n
+177	0xF6A34	10	ptr	キーガン　	Keegan
+178	0xF6A40	10	ptr	ジギー　　	Ziggy
+179	0xF6A4C	10	ptr	マギー　　	Maggy
+180	0xF6A58	10	ptr	ボン　　　	Bom
+181	0xF6A64	10	ptr	ゼクシィ　	Zexy
+182	0xF6A70	10	ptr	マハーノレ	Mahanole
+183	0xF6A94	76	ptr	僕キーガン。僕塔に登るのが夢なんだ。だから一生懸命剣の技を勉強してるんだよ。	The name is Keegan. Climbing the tower is my dream. This is why I have dedicated my life to the art of the sword.
+184	0xF6AE4	54	ptr	基本は上段斬り、中段斬り、下段斬り、防御、この４つさ。	The basics are upper slashes, middle slashes, lower slashes and defense. Those four.
+185	0xF6B1C	68	ptr	すぐ離れたがるモンスターには素早く間合いを詰める技を使うと便利だよ。	Against monsters that back off the moment you approach, a technique that closes the gap fast comes in handy.
+186	0xF6B64	78	ptr	剣技は突きと斬りに分けられるんだ。突きは点の攻撃、斬りは線の攻撃が出来るんだ。	We divide sword techniques into two categories: thrusts and slashes. Thrusts aim to pierce a point, while slashes are cutting attacks.
+187	0xF6BB4	46	ptr	突きの基本は斬りと一緒で上段、中段、下段だよ。	The basics of thrusting are the same as for slashing: upper strokes, middle strokes and lower strokes.
+188	0xF6BE4	84	ptr	垂直斬りっていうのは斬りの中では一番威力があってその名の通り垂直に振り下ろす技だよ。	The vertical slash is the most powerful of the slashing techniques. Just like the name says: you slash straight down.
+189	0xF6C3C	64	ptr	カブト割りっていうのはジャンプして上から剣を振り下ろす技なんだ。	During a skull splitter, you bring down your sword as you jump.
+190	0xF6C80	74	ptr	回転斬りっていうのは自分がコマみたいに回ってどの方向にも対応できる技だよ。	In a whirlwind, the swordfighter spins in place, striking in every direction.
+191	0xF6CCC	60	ptr	払い斬りっていうのは左下から右上に剣を払うように振る技だよ。	The sweep is a slashing technique during which the sword sweeps an area from the bottom left to the top right.
+192	0xF6D0C	82	ptr	ドラゴンソードを装備してＤアタックすれば、ドラゴンに凄いダメージを与えられるんだ。	If you perform a Dragonslayer while equipped with the Dragon Sword, you'll inflict tremendous damage to dragons.
+193	0xF6D60	76	ptr	Ｘ斬りっていうのは払い斬りの後１回転して左上から右下に剣を振り下ろす技だよ。	A cross slash involves performing a second sweep after a sword sweep, swinging around from the top left to the bottom right.
+194	0xF6DB0	84	ptr	前転斬りっていうのは前宙しながら剣を振る技だよ。離れた所にいるモンスターに届くんだ。	In a somersault slash, the swordfighter jumps forward with sword extended. It is effective to reach monsters that are at a distance.
+195	0xF6E08	74	ptr	乱れ突きって言うのは上段突き、中段突き、下段突きを連続して繰り出す技だよ。	The wild thrusts consist of chaining multiple high, middle and low thrusts in quick succession.
+196	0xF6E54	82	ptr	三段払いっていうのは前方に移動してコマみたいに回転しながら３回払い斬りする技だよ。	During the three sweeps combo, the swordfighter moves forward, spinning while sweeping three times.
+197	0xF6EA8	70	ptr	接近突きっていうのは敵に詰め寄って中段突きをする技で、隙が大きいんだ。	The lunge is a technique that lets you close in on a foe thanks to a middle thrust, but it leaves you open.
+198	0xF6EF0	64	ptr	対空払いっていうのは垂直にジャンプしながら払い斬りをする技だよ。	To perform an anti-air sweep, the fighter jumps up and sweeps while in the air.
+199	0xF6F34	84	ptr	側転斬りっていうのは前転斬りより高くジャンプするから飛んでるモンスターも斬れるんだ。	The hurricane slash is a somersault slash done with more height. You can cut flying monsters that way.
+200	0xF6F8C	76	ptr	Ｄフライっていうのは剣を頭の上に構えて回転しながら垂直にジャンプする技だよ。	In a dragonfly, you jump up with the sword held over the head, spinning it.
+201	0xF6FDC	80	ptr	垂直割りっていうのは垂直にジャンプして剣を振り下ろす技で一番威力のある技なんだ。	The vertical split is the most powerful technique, jumping straight up and bringing the sword down.
+202	0xF7030	80	ptr	技っていっていいのか解らないけど、ジャンプっていうのがあるんだ。なんなんだろう？	Whether it is worth calling it a technique or not, the jump is important. You can probably guess what it involves.
+203	0xF7084	46	ptr	あんなに説明してあげたのにまだ制覇してないの？	I gave you all those careful instructions and you still haven't mastered it?
+204	0xF70B4	54	ptr	人によって技の好みが違うみたいだけどあなたは何が好き？	Everybody has their own taste, so what are your favorite techniques?
+205	0xF70EC	68	ptr	一つの技におぼれないっていうのはセオリーだよ。技は沢山覚えないとね。	You can't rely on just one technique. You gotta learn a lot of them.
+206	0xF7134	84	ptr	モンスターごとに技を使い分けられればいいんだけど、覚えてないとどうしようもないよね。	It's good practice to use specific techniques against given monsters, but you still gotta learn which ones first.
+207	0xF718C	42	ptr	最初に覚えた技がジャンプだったら大変だね。	It would be a real hassle if the first technique you learned was "Jump."
+208	0xF71B8	16	ptr	俺の名はジギー。	I'm Ziggy.
+209	0xF71CC	76	ptr	防御してモンスターの攻撃を防いだら斬る。こいつが基本だがタイミングが命だぜ。	Defend first, then strike the monster after you parried its attack. That may sound obvious, but mastering its timing is of the essence.
+210	0xF721C	54	ptr	初めのうちは毒を吐く奴が多い。だから盾で防御が肝心だ。	You'll face lots of poison spitting foes at first. That's where protecting yourself behind a shield is vital.
+211	0xF7254	60	ptr	怪我したくねぇんならモンスターの攻撃の間合いを見切るんだな。	If you don't wanna get hurt, you gotta be able to estimate a monster's reach at a glance.
+212	0xF7294	76	ptr	虫のモンスターは基本的に動きが速い奴が多いんだ。パニックになったら負けるぜ。	The insect monsters are basically fast moving jerks. Panic, and you're dead.
+213	0xF72E4	48	ptr	西の扉すら制覇してないひよっ子に話す事はねえな。	I have really nothing to say to a big baby who hasn't even cleared the West Portal.
+214	0xF7318	46	ptr	フン、やっと中央の扉に行けるようになったのか。	Oh, finally, you have what it takes to get through the Center Portal.
+215	0xF7348	38	ptr	虫や草は火に弱い。こんなのは常識だぜ。	Insects, plants: they hate fire. That's common sense.
+216	0xF7370	50	ptr	ここを攻略するコツはタイミングよく街に帰る事だな。	The key to success is to learn the right time to get back to town.
+217	0xF73A4	42	ptr	俺は中央の扉の３５階まで登った事があるぜ。	I have reached the 35th floor of the Center Portal. Yep.
+218	0xF73D0	56	ptr	防御の重要さも解らない奴に摩天楼に挑む資格なんかねぇな。	Why bother defying the Wolkenkratzer if you don't even understand why defense matters?
+219	0xF740C	88	ptr	扉の前で耳をすましても何がいるか判らねぇ時には、周りを調べてみな。少しはヒントになるぜ。	If you can't tell what's coming by listening at the door, try paying attention to your surroundings. It should tell you something.
+220	0xF7468	36	ptr	ちったぁマシになってきたみたいだな。	Oh, seems like you're not as bad as you were before. Slightly.
+221	0xF7490	84	ptr	羽音と凄まじい振動を感じたら、そこにいるのはドラゴンだ。せいぜい気を付けるこったな。	If you hear wings flapping and feel a crazy tremor, you can bet there is a dragon out there. Better be careful with that.
+222	0xF74E8	56	ptr	ゴーレムは額には真理が詰まってる。だから狙うなら頭だな。	A golem's whole life is in its forehead. Aim for the head.
+223	0xF7524	64	ptr	逆鱗って知ってるか？\n\nドラゴンの一番頭に近い鱗の事なんだってよ。	The gap in the armor.\n\nThat's what the scale closest to a dragon's head is called.
+224	0xF7568	82	ptr	俺はまだ会ったこたぁねぇんだけどよ、上の方にはえれぇ強ぇ異国の剣士がいるらしいぜ。	Never met him, but I heard about some foreign knight that's supposed to be a helluva badass at the top of the tower.
+225	0xF75BC	84	ptr	モンスターにも弱点ってモンがあるんだ。それを覚えりゃ素早く倒せるようになるだろうよ。	Monsters have weak points. Spot them, and you'll dispatch them in no time.
+226	0xF7614	60	ptr	ジャイアントの左手・・・。思い出すだけで鳥肌がたってくるぜ。	The left hand of a giant... I got the chills just thinking back about it.
+227	0xF7654	68	ptr	でかい奴を相手にするときゃ懐にもぐりこんじまやぁ意外と楽に戦えるぜ。	When facing some gargantuan guys, it's surprisingly effective to get in very close.
+228	0xF769C	84	ptr	俺が言ってるのは３５階までの事だ。それより上で俺の言った事と違っても責任もてねぇぞ。	I can only speak of what happens up to the 35th floor. After that point, don't blame me if what I told you doesn't apply anymore.
+229	0xF76F4	60	ptr	摩天楼の中で死んだ奴は、何処かで新たな生を受けるって話だぜ。	It's said the people that die in the Wolkenkratzer start a new life elsewhere.
+230	0xF7734	86	ptr	モンスターどもは大体出てくるエリアが決まってんだ。嫌な奴がいたらとっとと抜けるんだな。	Monsters generally dwell in specific areas. You should be able to avoid the ones you really don't like.
+231	0xF778C	72	ptr	西の扉のドラゴンは、本物のドラゴンとはちょっと違う。本物はもっと強いぜ。	The West Portal dragon ain't no real dragon. True ones are way stronger.
+232	0xF77D8	56	ptr	服を着たガイコツ野郎と戦う時は間合いを詰めた方がいいぜ。	You better close the gap when fighting that robed skeleton.
+233	0xF7814	56	ptr	さすがの俺も熊があんな攻撃をしてくるとは思わなかったぜ。	Well, I damn well would never have imagined a bear could pull that attack.
+234	0xF7850	40	ptr	俺はマギー。\n\nアイテムの事なら任せとけ。	I'm Maggy.\n\nIf you need to know something about items, just ask me.
+235	0xF787C	52	ptr	シールドに鏡の粉でメッキをすれば毒を受けなくなるぞ。	If you coat a shield with mirror powder, you won't have to worry about getting poisoned anymore.
+236	0xF78B4	48	ptr	剣や鎧は粉をふりかけることで強くも弱くもなるぞ。	Spraying powders over armors and weapons can have either a good or a bad effect.
+237	0xF78E8	30	ptr	剣や鎧は粉９個まで強くなるぞ。	You can spray up to nine powders on one weapon or piece of armor.
+238	0xF7908	56	ptr	アイテム探しに熱を上げるのもいいが時間には気を付けろよ。	It's good practice to focus on gathering items, but be careful with the time spent.
+239	0xF7944	42	ptr	フレアシールドは火の魔法を無効にするんだ。	The flare shield neutralizes fire magic.
+240	0xF7970	42	ptr	アイスシールドは氷の魔法を無効にするんだ。	The ice shield neutralizes ice magic.
+241	0xF799C	42	ptr	エレキシールドは雷の魔法を無効にするんだ。	The shock shield neutralizes lightning magic.
+242	0xF79C8	46	ptr	オールシールドはすべての魔法を無効にするんだ。	The all shield neutralizes all magic.
+243	0xF79F8	60	ptr	ドラゴンにはガルブレイズよりドラゴンソードの方がよく効くぞ。	The dragon sword is more effective against dragons than the Galblaze.
+244	0xF7A38	74	ptr	盾にメッキをしてあれば毒攻撃は防げるが、毒薬を飲んだ場合は別だ。忘れるな。	A coated shield can protect you from poison attacks, but not from drinking poison. Don't forget that.
+245	0xF7A84	70	ptr	この前、錆びた剣と溶けた鎧が欲しいって奴がいたな。一体何に使うんだか。	I remember some fellow who was interested in rusted swords and melted armor. I really wonder what he wanted to do with those.
+246	0xF7ACC	50	ptr	何の薬か判らない時、戦闘中使うのは無謀ってもんだ。	It's ill-advised to use a pill during a fight when you don't know its effects.
+247	0xF7B00	34	ptr	戦士の家系なら巻物は大事にしろよ。	If you are of warrior lineage, then cherish the scrolls!
+248	0xF7B24	88	ptr	攻撃に使える巻物は魔法と同じでフレア、アイス、エレキの３つだが、それぞれレベルがあるぞ。	The offensive scrolls come in flare, ice and shock varieties, just like magic, but with different levels.
+249	0xF7B80	64	ptr	粉や薬にはそれぞれ相反するものがある。例えば体力回復薬と劇薬だ。	Powders and pills have opposites. For every great medicine there's an equally great poison.
+250	0xF7BC4	36	ptr	魔法回復薬に相反するのは混乱の薬だ。	The opposite of a pill of restoring magic is a pill of confusion.
+251	0xF7BEC	38	ptr	毒薬に相反するのは読んだ通り解毒薬だ。	The opposite of a pill of poison is, as expected, a pill of antidote.
+252	0xF7C14	34	ptr	防御ＵＰ粉に相反するのは酸の粉だ。	The opposite of def. up powder is an acid powder.
+253	0xF7C38	34	ptr	攻撃ＵＰ粉に相反するのは錆の粉だ。	The opposite of an atk. up powder is a rust powder.
+254	0xF7C5C	74	ptr	俺さぁ、ボンっていうんだけどさぁ、ステータス関係なら割と詳しいんだよねぇ。	Me? Okay, let's say the name is Bom. Well, you're not gonna want to miss what I can tell you about status and such...
+255	0xF7CA8	68	ptr	モンスターから毒攻撃を受けるとさぁ、腕に力が入らなくなるんだよねぇ。	Let's say you get poisoned by a monster. Well, you're not gonna be able to hit as hard anymore...
+256	0xF7CF0	84	ptr	いくらレベルが上がってもさぁ、防御力は変わらないんだよねぇ。まぁ鎧次第って事かなぁ。	Let's say you level up more and more. Well, you're not gonna raise defense that way. That's because defense only comes from armor, not level.
+257	0xF7D48	82	ptr	毒を受けたまま登ると結構危ないからさぁ、解毒薬を飲むか街に戻るかした方がいいよぉ。	Let's say you are poisoned, and you keep climbing the tower. Well, you're not gonna last long, you wanna get back to town to drink an antidote, I tell ya.
+258	0xF7D9C	60	ptr	人間の能力ってさぁ、腕力と知力と素早さの３つがあるんだよねぇ	Let's say there are three statistics. Well, don't forget their names: strength, intelligence and speed.
+259	0xF7DDC	74	ptr	どんなに体がおっきくてもさぁ、腕力が低けりゃぁただの木偶の坊なんだよねぇ。	Let's say you got that big, bulky body. Well, you're not gonna do much damage if you ain't got the strength to go with it.
+260	0xF7E28	84	ptr	素早さの高い人ってさぁ、時間をあまり使わないんだよねぇ。当然だけどさぁ、大事だよぉ。	Let's say you are of the speedy kind. Well, you're not gonna waste as much time as others. Yeah, well it may be obvious, but it is still true.
+261	0xF7E80	76	none	知力が高いとさぁ、魔法の効きがいいんだよねぇ。まぁ、俺には関係無いけどねぇ。	Let's say you're smart. Well, you're gonna get more out of magic. Not me.
+262	0xF7ED0	52	ptr	攻撃力ってさぁ、腕力と武器の威力で決まるんだよねぇ。	Let's say you want to deal real damage. Well, you're gonna need both strength and the weapon to go with it.
+263	0xF7F08	78	ptr	レベルアップだけに頼ってるとさぁ、多分きついよぉ。やっぱり薬を使わないとねぇ。	Let's say you only care about leveling up. That's still gonna be tough. You're gonna need potions.
+264	0xF7F58	54	ptr	家系によってさぁ、能力の上がり方に差があるんだよねぇ。	Let's say that depending on your lineage, you're gonna want to raise your stats differently.
+265	0xF7F90	46	ptr	実はさぁ、俺家系にもちょっと詳しいんだよねぇ。	Well, it happens that I'm a bit versed in the various trades, if you wanna hear.
+266	0xF7FC0	86	ptr	腕力が一番上がるのは当然戦士だよねぇ。後は騎士、レンジャー、魔法使いの順なんだよねぇ。	Let's say strength matters the most to fighters, then knights, rangers and magic users, in that order.
+267	0xF8018	86	ptr	体力が一番上がるのは当然戦士だよねぇ。後は騎士、レンジャー、魔法使いの順なんだよねぇ。	Let's say hit points matter the most to fighters, then knights, rangers and magic users, in that order.
+268	0xF8070	86	ptr	知力が一番上がるのは当然魔法使いだよねぇ。後はレンジャー、騎士、戦士の順なんだよねぇ。	Let's say intelligence matters the most to magic users, then rangers, knights and fighters, in that order.
+269	0xF80C8	88	ptr	魔法力が一番上がるのは当然魔法使いだよねぇ。後はレンジャー、騎士、戦士の順なんだよねぇ。	Let's say magic points matter the most to magic users, then rangers, knights and fighters, in that order.
+270	0xF8124	50	ptr	素早さっていえばさぁ、やっぱりレンジャーだよねぇ。	Let's say that when it comes to speed, you wanna be a ranger.
+271	0xF8158	86	ptr	こんなしゃべり方してるんだけどさぁ、俺あんたの事尊敬してるんだよねぇ。ホントっすよぉ。	Let's say that even if I talk like this, you gotta believe I'm your friend. I swear, really.
+272	0xF81B0	34	ptr	私ゼクシィっていうの。よろしくね。	I am Zexy. Nice to meet you.
+273	0xF81D4	42	ptr	戦いは力だけじゃダメ。頭を使わなくちゃね。	Strength isn't all. You have to use your head sometimes in a fight, too.
+274	0xF8200	78	ptr	この塔の中、モンスターさえいなければいいデートスポットになるのにね。残念だわ！	Ah, if only there weren't those monsters, this tower would make such a fancy spot for dates! What a shame!
+275	0xF8250	36	ptr	塔に挑む男達ってろくでなしばっかり！	All those men going into the tower are just good-for-nothings!
+276	0xF8278	48	ptr	もう皆して塔塔って！　塔に何があるって言うのよ！	All they can talk about is the tower, the tower! Why do they care so much about that tower?!
+277	0xF82AC	68	ptr	頭にくるわよね！　あの男ったら私より回復薬の方が大事だっていうのよ！	It blows, right?! They care more about my medicines than about me, or what?!
+278	0xF82F4	84	ptr	この前のお客ったら５０階のモンスター倒したってのに勇者の証取らなかったっていうのよ！	I got a customer who went to the 50th floor and killed the monster, and told me he still didn't get the Emblem of the Hero!
+279	0xF834C	70	ptr	酒場であった酔っぱらいが塔からいきなり放り出されたって悔しがってたわ！	There was this drunkard at the bar that was whining about being suddenly thrown out of the tower!
+280	0xF8394	72	ptr	塔に地下があるって噂、聞いた事ある？　信じちゃだめよ。１００％嘘だから。	There is a rumor that the tower has a basement, but don't you believe that! That's pure lies!
+281	0xF83E0	72	ptr	世界中を旅してるって男に聞いたの。塔があるのはここだけじゃないらしいの！	A man traveling the world told me that this tower isn't the only one!
+282	0xF842C	48	ptr	私、今日はすっごく機嫌悪いの！なんか文句あるの！	I am so pissed today! What's your problem?!
+283	0xF8460	82	ptr	私は神様なんて信じない！　だってさわれもしないし、私には男がそばに居る方がいいわ！	I don't believe in no god! What's his deal if you can't come in contact with him? I'd rather have my man by my side!
+284	0xF84B4	48	ptr	「勇者の証」って手に入れるとどうなるのかしらね？	I wonder what happens when you get your hands on the Emblem of the Hero.
+285	0xF84E8	54	ptr	この塔ってどのくらいの高さなのかしら？　考えた事無い？	Blast this tower, how high does it even go? What? You never asked that yourself?
+286	0xF8520	64	ptr	私、鏡の粉が欲しいの。そしたらこのピアス、メッキできるのになぁ。	I'd love to get mirror powder. Oh, how I would put it on those earrings!
+287	0xF8564	56	ptr	アイスシールドってきれいなんだってね。一度見てみたいわ。	They say the ice shield is super pretty. Woah, I hope I can see one someday.
+288	0xF85A0	72	ptr	私ってかなりかわいいわよね。なのに男達は皆、私をおいて塔にいっちゃうの。	Yeah, I'm cute, I know. Why are all the men leaving me alone to go in that tower then?
+289	0xF85EC	82	ptr	私の名はマハーノレ。そなたが戦士の家系なら私と話してもあまり意味はないかもしれん。	My name is Mahanole. If war is your trade, you probably won't have much to gain from addressing me.
+290	0xF8640	68	ptr	魔法使いの家系の者は体力と腕力が低い。薬を活用せねば苦労するだろう。	Those of magician lineage are weak in body. They must know how to use potions, for their own good.
+291	0xF8688	76	ptr	ヒールとは相手の体力をほんの少し奪い、それを増幅して自分の体力にする魔法だ。	The heal magic steals a tiny bit of the target's health to restore your own.
+292	0xF86D8	84	ptr	魔法は神に最も近い力。魔法力を無駄使いするものは神の力を無駄使いしているという事だ。	Magic is the force closest to God. Wasting magic is wasting the power of God.
+293	0xF8730	84	ptr	モンスターには属性を持つ者もいる。その属性の魔法で攻撃してもダメージは与えられない。	Monsters do have elemental traits. Attacking them with magic sharing their element won't damage them.
+294	0xF8788	28	ptr	敵の属性を見切る事が大切だ。	It is very important to learn the elemental traits of your enemies.
+295	0xF87A8	84	ptr	モンスターによっては魔法を使う隙がないかもしれん。その時は己の腕力だけが頼りになる。	Some monsters will probably not let you have the luxury of casting magic. At such times, you can only trust int the strength of your arms.
+296	0xF8800	60	ptr	魔法使いの家系の者として、魔法回復薬は常に持ち歩くべきだろう	As a descendant of magician lineage, you should always carry magic restoring potions with you.
+297	0xF8840	38	ptr	魔法使いだからとて体は鍛えねばならん。	Even though you are a magician, you need to train your body.
+298	0xF8868	46	ptr	攻撃魔法はフレア、アイス、エレキの順に覚える。	You will learn the magic of flare, ice and shock, in that order.
+299	0xF8898	84	ptr	回復魔法はヒールとハイヒールの２つだ。だがハイヒールはそう簡単には覚える事は出来ん。	There are two rejuvenating magics: heal and high heal. But learning high heal is no easy feat.
+300	0xF88F0	84	ptr	剣の魔法を知っているか？　敵の弱点属性の魔法剣ならば２倍のダメージを与えられるのだ。	Do you know of the magic of the sword? A sword enchanted with the element the monster is weak to will inflict twice the damage.
+301	0xF8948	44	ptr	魔法剣は知力によって使える時間が異なるのだ。	Intelligence affects magic weapons; the higher it is, the longer they last.
+302	0xF8978	54	ptr	知力の低い魔法使いは腕力のない戦士と同じ、役立たずだ。	A magician with dim wits is as useless as a weak warrior.
+303	0xF89B0	58	ptr	人型のモンスターは魔法を使うものが多い。気を付けるがよい。	Many humanoid monsters make use of magic. Be wary.
+304	0xF89EC	86	ptr	魔法を３種類とも使うモンスターがいるそうだ。ジギーもそいつだけには会いたくないらしい。	There appears to be a monster who can use all three magic elements. I think Ziggy doesn't ever want to cross its path again.
+305	0xF8E84	10	ptr	上突き　　	HighThrust
+306	0xF8E90	10	ptr	かぶと割り	Headsplit
+307	0xF8E9C	10	ptr	中突き　　	MidThrust
+308	0xF8EA8	10	ptr	回転斬り　	Whirlwind
+309	0xF8EB4	10	ptr	下突き　　	LowThrust
+310	0xF8EC0	10	ptr	払い斬り　	SwordSweep
+311	0xF8ECC	10	ptr	Ｄアタック	DrgnSlayer
+312	0xF8ED8	10	ptr	接近突き　	Lunge
+313	0xF8EE4	10	ptr	３段払い	SweepCombo
+314	0xF8EF0	10	ptr	ジャンプ　	Jump
+315	0xF8EFC	10	ptr	垂直斬り　	Vert slash
+316	0xF8F08	10	ptr	Ｘ斬り　　	Crossslash
+317	0xF8F14	10	ptr	乱れ突き　	Wildthrust
+318	0xF8F20	10	ptr	前転斬り　	Somersault
+319	0xF8F2C	10	ptr	対空払い　	Anti-air
+320	0xF8F38	10	ptr	側転斬り　	Hurricane
+321	0xF8F44	10	ptr	Ｄフライ　	Dragonfly
+322	0xF8F50	10	ptr	垂直割り　	Vert split
+323	0xF8F5C	10	ptr	ヒール　　	Heal
+324	0xF8F68	10	ptr	フレア　　	Flare
+325	0xF8F74	10	ptr	アイス　　	Ice
+326	0xF8F80	10	ptr	エレキ　　	Shock
+327	0xF8F8C	10	ptr	Ｅソード　	Shocksword
+328	0xF8F98	10	ptr	Ｉソード　	Icesword
+329	0xF8FA4	10	ptr	Ｆソード　	Flaresword
+330	0xF8FB0	10	ptr	ハイヒール	High heal
+331	0xF8FCC	14	ptr	フレアＬ１	Flare L1
+332	0xF8FDC	14	ptr	フレアＬ２	Flare L2
+333	0xF8FEC	14	ptr	フレアＬ３	Flare L3
+334	0xF8FFC	14	ptr	フレアＬ４	Flare L4
+335	0xF900C	14	ptr	フレアＬ５	Flare L5
+336	0xF901C	14	ptr	フレアＬ６	Flare L6
+337	0xF902C	14	ptr	フレアＬ７	Flare L7
+338	0xF903C	14	ptr	フレアＬ８	Flare L8
+339	0xF904C	14	ptr	エレキＬ１	Shock L1
+340	0xF905C	14	ptr	エレキＬ２	Shock L2
+341	0xF906C	14	ptr	エレキＬ３	Shock L3
+342	0xF907C	14	ptr	エレキＬ４	Shock L4
+343	0xF908C	14	ptr	エレキＬ５	Shock L5
+344	0xF909C	14	ptr	エレキＬ６	Shock L6
+345	0xF90AC	14	ptr	エレキＬ７	Shock L7
+346	0xF90BC	14	ptr	エレキＬ８	Shock L8
+347	0xF90CC	14	ptr	アイスＬ１	Ice L1
+348	0xF90DC	14	ptr	アイスＬ２	Ice L2
+349	0xF90EC	14	ptr	アイスＬ３	Ice L3
+350	0xF90FC	14	ptr	アイスＬ４	Ice L4
+351	0xF910C	14	ptr	アイスＬ５	Ice L5
+352	0xF911C	14	ptr	アイスＬ６	Ice L6
+353	0xF912C	14	ptr	アイスＬ７	Ice L7
+354	0xF913C	14	ptr	アイスＬ８	Ice L8
+355	0xF914C	14	ptr	ナチラプー　　	Nazirapoo
+356	0xF918C	14	ptr	混乱の薬　　　	Confuse Pill
+357	0xF91BC	14	ptr	力の薬　　　　	Str Pill
+358	0xF91CC	14	ptr	素早さの薬　　	Speed Pill
+359	0xF91DC	14	ptr	知恵の薬　　　	Int Pill
+360	0xF920C	14	ptr	錆の粉　　　　	Rust powder
+361	0xF921C	14	ptr	酸の粉　　　　	Acid powder
+362	0xF922C	14	ptr	鏡の粉　　　　	Mirror powder
+363	0xF923C	14	ptr	ブロンズソード	Bronze sword
+364	0xF924C	14	ptr	アイアンソード	Iron sword
+365	0xF925C	14	ptr	レイピア　　　	Rapier
+366	0xF926C	14	ptr	ガルブレイズ　	Galblaze
+367	0xF927C	14	ptr	ドラゴンソード	Dragon sword
+368	0xF928C	14	ptr	レザーアーマー	Leather armor
+369	0xF929C	14	ptr	ハーフプレート	Half plate
+370	0xF92AC	14	ptr	フルプレート　	Full plate
+371	0xF92BC	14	ptr	メタルプレート	Metal plate
+372	0xF92CC	14	ptr	バトルプレート	Battle plate
+373	0xF92DC	14	ptr	レザーシールド	Leather shield
+374	0xF92EC	14	ptr	アイスシールド	Ice shield
+375	0xF92FC	14	ptr	エレキシールド	Shock shield
+376	0xF930C	14	ptr	フレアシールド	Flare shield
+377	0xF931C	14	ptr	オールシールド	All shield
+378	0xF932C	14	ptr	勇者の証　　　	Hero Emblem
+379	0xF933C	14	ptr	奥義の巻物　　	Tech Scroll
+380	0xF935C	14	ptr	紫の巻物　　　	Violet scroll
+381	0xF936C	14	ptr	白の巻物　　　	White scroll
+382	0xF937C	14	ptr	黒の巻物　　　	Black scroll
+383	0xF938C	14	ptr	葵の巻物　　　	Green scroll
+384	0xF939C	14	ptr	奥義の巻物　　	Tech Scroll
+385	0xF93AC	14	ptr	赤の剣　　　　	Red sword
+386	0xF93BC	14	ptr	黄の剣　　　　	Golden sword
+387	0xF93CC	14	ptr	紫の剣　　　　	Violet sword
+388	0xF93DC	14	ptr	白の剣　　　　	White sword
+389	0xF93EC	14	ptr	黒の剣　　　　	Black sword
+390	0xF93FC	14	ptr	赤の鎧　　　　	Red armor
+391	0xF940C	14	ptr	黄の鎧　　　　	Golden armor
+392	0xF941C	14	ptr	紫の鎧　　　　	Violet armor
+393	0xF942C	14	ptr	白の鎧　　　　	White armor
+394	0xF943C	14	ptr	黒の鎧　　　　	Black armor
+395	0xF944C	14	ptr	赤の盾　　　　	Red shield
+396	0xF945C	14	ptr	黄の盾　　　　	Golden shield
+397	0xF946C	14	ptr	紫の盾　　　　	Violet shield
+398	0xF947C	14	ptr	白の盾　　　　	White shield
+399	0xF948C	14	ptr	黒の盾　　　　	Black shield
+400	0xF949C	14	ptr	青の盾　　　　	Blue shield
+401	0xF94AC	14	ptr	赤の薬　　　　	Red pill
+402	0xF94BC	14	ptr	黄の薬　　　　	Yellow pill
+403	0xF94CC	14	ptr	緑の薬　　　　	Green pill
+404	0xF94DC	14	ptr	青の薬　　　　	Blue pill
+405	0xF94EC	14	ptr	黒の薬　　　　	Black pill
+406	0xF94FC	14	ptr	白の薬　　　　	White pill
+407	0xF950C	14	ptr	紫の薬　　　　	Violet pill
+408	0xF951C	14	ptr	茶の薬　　　　	Brown pill
+409	0xF952C	14	ptr	灰の薬　　　　	Grey pill
+410	0xF953C	14	ptr	赤の粉　　　　	Red powder
+411	0xF954C	14	ptr	紫の粉　　　　	Violet powder
+412	0xF955C	14	ptr	白の粉　　　　	White powder
+413	0xF956C	14	ptr	黒の粉　　　　	Black powder
+414	0xF957C	14	ptr	葵の粉　　　　	Blue powder
+415	0xF9804	6	code	赤の薬	Red pill
+416	0xF980C	6	code	黒の薬	Black pill
+417	0xF9860	4	code	あと	Next
+418	0xFED3C	10	ptr	あいうえお	ABCDE
+419	0xFED48	10	ptr	かきくけこ	FGHIJ
+420	0xFED54	10	ptr	さしすせそ	KLMNO
+421	0xFED60	10	ptr	たちつてと	PQRST
+422	0xFED6C	10	ptr	なにぬねの	UVWXY
+423	0xFED78	10	ptr	はひふへほ	Z
+424	0xFED84	10	ptr	まみむめも
+425	0xFED90	10	ptr	やゆよわを
+426	0xFED9C	10	ptr	らりるれろ
+427	0xFEDA8	10	ptr	ん・　　　
+428	0xFEDB4	10	ptr	がぎぐげご
+429	0xFEDC0	10	ptr	ざじずぜぞ
+430	0xFEDCC	10	ptr	だぢづでど
+431	0xFEDD8	10	ptr	ばびぶべぼ
+432	0xFEDE4	10	ptr	ぱぴぷぺぽ
+433	0xFEDF0	10	ptr	ぁぃぅぇぉ
+434	0xFEDFC	10	ptr	ゃゅょっー
+435	0xFEE4C	10	ptr	アイウエオ	abcde
+436	0xFEE58	10	ptr	カキクケコ	fghij
+437	0xFEE64	11	ptr	サシスセソ 	klmno
+438	0xFEE70	10	ptr	タチツテト	pqrst
+439	0xFEE7C	10	ptr	ナニヌネノ	uvwxy
+440	0xFEE88	10	ptr	ハヒフヘホ	z
+441	0xFEE94	10	ptr	マミムメモ
+442	0xFEEA0	10	ptr	ヤユヨワヲ
+443	0xFEEAC	10	ptr	ラリルレロ
+444	0xFEEB8	10	ptr	ン・ヴ　　
+445	0xFEEC4	10	ptr	ガギグゲゴ
+446	0xFEED0	10	ptr	ザジズゼゾ
+447	0xFEEDC	10	ptr	ダヂヅデド
+448	0xFEEE8	10	ptr	バビブベボ
+449	0xFEEF4	10	ptr	パピプペポ
+450	0xFEF00	10	ptr	ァィゥェォ
+451	0xFEF0C	10	ptr	ャュョッー
+452	0xFEF98	16	code	　宜しいですか？	Are you sure?
+453	0xFEFBC	16	code	あなたの名前は？	What is your name?
+454	0xFEFD0	18	code	あなたの誕生日は？	What is your birthday?
+455	0xFEFF8	16	code	あなたの性別は？	What is your sex?
+456	0xFF00C	16	code	あなたの家系は？	What is your class?
+457	0xFF020	28	code	ボーナスポイントを割り振って	Please distribute your
+458	0xFF040	8	code	下さい。	bonus points.
+459	0xFF06C	6	code	素早さ	Speed
+460	0xFF0B8	26	code	総ての入力が終了しました。	All data entry completed.
+461	0xFF0D4	20	code	入力は正しいですか？	Is this okay?
