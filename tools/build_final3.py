@@ -29,6 +29,15 @@ bf.TRIMS[261] = ("Let's say you're smart. Magic works better for you. Not me.")
 #  and code at raw addresses that the TSV doesn't cover, so they remain.)
 bf.OVERRIDES.clear()
 bf.SUPPLEMENT[0x0F9814] = "Class"         # no ':' -- the window's dotted separator provides the fat colon
+# 設定 / 一覧 are not one heading -- they are the two selectable options of the
+# COMMAND window, drawn on one line. Measured from screenshots (54.5 screen px
+# per half-width col): option 1 draws at col 0 with its cursor at col -1 in the
+# left margin, option 2 draws at col 5 with its cursor at col 4, and the box
+# interior runs out after col 8. So option 2 has cols 5-8 -- four columns, no
+# leading space: col 4 is already free for the cursor once option 1 stops at
+# col 3. A leading space would push "List" to cols 6-9 and clip the final "t".
+bf.SUPPLEMENT[0x005FB4] = "Set"      # cols 0-2, padded to col 3
+bf.SUPPLEMENT[0x005FBC] = "List"     # cols 5-8, cursor sits at col 4
 # HP/STR/INT are 2-cell labels; pad to 3 cells (like Level/MP/Speed) so the
 # opaque text cells cover the stray glyph the JP labels used to hide at the
 # old x. Every label row now spans 0x1C2..0x1CE, flush with the separator.

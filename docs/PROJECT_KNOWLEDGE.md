@@ -220,7 +220,21 @@ MAIN.EXE; `bytes` = original record length; literal `\n` in text = one `0x0A`.
   `.strip()`s every TSV cell, so a JP leading full-width space cannot be carried
   in the spreadsheet. 0x005FDC (`　アイテム`, command-screen list) is re-indented
   to 2 half-width spaces = one cell, matching the `  Magic` / `  Skills`
-  SUPPLEMENT entries beside it; without it the column's X icon covers "In".
+  SUPPLEMENT entries beside it; without it the column's X icon covers the first
+  two letters. Its text is "Items" (not "Inventory") so the indented label still
+  fits the 5-cell slot.
+- **COMMAND window options** (0x005FB4 設定 / 0x005FBC 一覧): these are not one
+  heading but the two selectable options of the window, drawn on one line, so
+  they must stay independently readable -- do not fuse a phrase across them.
+  Geometry measured from screenshots (54.5 screen px per half-width col at that
+  capture scale): option 1 draws at col 0 with its cursor one col to its left
+  (col -1, in the left margin); option 2 draws at col 5 with its cursor at col
+  4; the box interior runs out after col 8. Option 1 therefore has cols 0-3 and
+  option 2 cols 5-8 -- four columns each. English: "Set" (padded to "Set ") and
+  "List". No leading space on option 2: col 4 is already free for the cursor,
+  and an added space would push "List" to cols 6-9 and clip the "t".
+  The window title art reading COMMAND is a tile graphic, not a string -- no
+  translation entry affects it.
 - **TRIMS** all removed except **id 261** (pointer-less, in-place only).
   **This string has a hard 77-byte budget** (the builder allows `budget + 2`, so
   79 bytes of encoded payload). It is set in `build_final3.py`, which SHADOWS
